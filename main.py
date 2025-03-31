@@ -1,5 +1,7 @@
 # Input statements
+print("Enter weekly salary:")
 salary = float(input())
+print("Enter number of dependents:")
 numDependents = float(input())
 
 # Calculate taxes
